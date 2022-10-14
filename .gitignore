@@ -310,6 +310,10 @@ pyvenv.cfg
 .venv
 pip-selfcheck.json
 
+
+# Pycharm
+.idea
+
 ### Staticfiles ###
 staticfiles
 
